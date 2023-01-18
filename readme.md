@@ -1,6 +1,6 @@
 # Hi there 👋
 
- ## My name is Indrek Mannik.
+ My name is <b>Indrek Mannik.</b>
 
  Studying Full Stack Software Development in [Code Institute](https://codeinstitute.net/ie/) 
 
