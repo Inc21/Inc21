@@ -1,1 +1,25 @@
-## Hi there 👋
+# Hi there 👋
+
+ ## My name is Indrek Mannik.
+
+ Studying Full Stack Software Development in [Code Institute](https://codeinstitute.net/ie/) 
+
+![alt text](code-logo.png "Code Institute")
+
+Although I'm at the start of my coding journey at present, I'm enjoying it very much. 
+
+One thing I regret, that I didn't do this sooner.
+
+
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
