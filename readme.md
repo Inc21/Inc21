@@ -8,7 +8,7 @@
 
 Although I'm at the start of my coding journey at present, I'm enjoying it very much. 
 
-One thing I regret, that I didn't do this sooner.
+One thing I regret is that I didn't do this sooner.
 
 
 <!--
