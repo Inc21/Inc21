@@ -1,5 +1,3 @@
-<base target="_blank">
-
 # Hi there 👋
 
  My name is <b>Indrek Mannik.</b>
@@ -15,7 +13,7 @@
 
 | LinkedIn | Facebook | Twitter | Instagram |
 |---|---|---|---|
-| [![](/in_logo.png)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3362844335) | [![](/fb_logo.png)](facebook.com/ind.rek.5) | [![](/twitter_logo.jpeg)](https://twitter.com/intc21) | [![](/instagram_logo.png)](https://www.instagram.com/intc21/) |
+| [![](/in_logo.png)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3362844335 "target=_blank") | [![](/fb_logo.png)](facebook.com/ind.rek.5) | [![](/twitter_logo.jpeg)](https://twitter.com/intc21) | [![](/instagram_logo.png)](https://www.instagram.com/intc21/) |
 
  
 
