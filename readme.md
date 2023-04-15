@@ -8,13 +8,13 @@
 </p>
 
 
-### Topics covered so far:
+### :book: Topics covered so far:
 | HTML | CSS | JavaScript | Python |
 |---|---|---|---|
 | ![](/html5.png) | ![](/css3.png) | ![](/JavaScript5.png) | ![](/Python.png)
 
 
-### My GitHub stats:
+### :octocat: My GitHub stats:
 <p align="center">
   <img width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&layout=compact" alt="top langs">
 </p>
@@ -25,15 +25,13 @@
 </p>
 
 
-
-### 📫 How to reach me:
+### :envelope_with_arrow: How to reach me:
 <div align="center"> 
 
 | LinkedIn | Facebook | Twitter | Instagram |
 |---|---|---|---|
 | [![](/in_logo.png)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3362844335/) | [![](/fb_logo.png)](https://www.facebook.com/ind.rek.5) | [![](/twitter_logo.jpeg)](https://twitter.com/intc21) | [![](/instagram_logo.png)](https://www.instagram.com/intc21/) |
 </div>
-
 
  
 
@@ -49,4 +47,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 
+
 -->
