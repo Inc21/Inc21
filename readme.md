@@ -3,30 +3,37 @@
  My name is <span style="font-size: 30px">Indrek Mannik.</span>
 
 ### 🌱 I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/) 
-<p align="right">
+<p align="left">
   <img width="" height="" src="code-logo.png" alt="Code Institute">
 </p>
 
 
 ### Topics covered so far
-![](/html5.png) ![](/css3.png) ![](/JavaScript5.png)
+| HTML | CSS | JavaScript | Python |
+|---|---|---|---|
+| ![](/html5.png) | ![](/css3.png) | ![](/JavaScript5.png) | ![](/Python.jpg)
 
 
 ### My GitHub stats:
-<p align="center">
-  <img width="" height="" src="https://github-readme-stats.vercel.app/api?username=Inc21&show_icons=true&theme=transparent"  alt="stats">
-</p>
-
 <p align="center">
   <img width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&layout=compact" alt="top langs">
 </p>
 
 
+<p align="center">
+  <img width="" height="" src="https://github-readme-stats.vercel.app/api?username=Inc21&show_icons=true&theme=transparent"  alt="stats">
+</p>
+
+
 
 ### 📫 How to reach me:
+<div align="center"> 
+
 | LinkedIn | Facebook | Twitter | Instagram |
 |---|---|---|---|
 | [![](/in_logo.png)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3362844335/) | [![](/fb_logo.png)](https://www.facebook.com/ind.rek.5) | [![](/twitter_logo.jpeg)](https://twitter.com/intc21) | [![](/instagram_logo.png)](https://www.instagram.com/intc21/) |
+</div>
+
 
  
 
