@@ -1,6 +1,6 @@
 # Hi there 👋
 
- My name is <span style="font-size: 30px">Indrek Mannik.</span>
+ My name is <H2>Indrek Mannik.</H2>
 
 ### 🌱 I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/) 
 <p align="left">
@@ -8,7 +8,7 @@
 </p>
 
 
-### Topics covered so far
+### Topics covered so far:
 | HTML | CSS | JavaScript | Python |
 |---|---|---|---|
 | ![](/html5.png) | ![](/css3.png) | ![](/JavaScript5.png) | ![](/Python.png)
