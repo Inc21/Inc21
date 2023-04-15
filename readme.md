@@ -11,7 +11,7 @@
 ### Topics covered so far
 | HTML | CSS | JavaScript | Python |
 |---|---|---|---|
-| ![](/html5.png) | ![](/css3.png) | ![](/JavaScript5.png) | ![](/Python.jpg)
+| ![](/html5.png) | ![](/css3.png) | ![](/JavaScript5.png) | ![](/Python.png)
 
 
 ### My GitHub stats:
