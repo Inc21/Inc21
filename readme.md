@@ -1,3 +1,9 @@
+<style>
+td, th {
+   border: none!important;
+}
+
+</style>
 # Hi there 👋
 
  My name is <H2>Indrek Mannik.</H2>
@@ -12,6 +18,7 @@
 | HTML | CSS | JavaScript | Python |
 |---|---|---|---|
 | ![](/html5.png) | ![](/css3.png) | ![](/JavaScript5.png) | ![](/Python.png)
+
 
 
 ### :octocat: My GitHub stats:
