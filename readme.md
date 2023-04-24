@@ -29,7 +29,7 @@
 ### :envelope_with_arrow: My socials:
 <div align="center"> 
 
-| LinkedIn | Facebook | Twitter | Instagram | Strava !
+| LinkedIn | Facebook | Twitter | Instagram | Strava |
 |---|---|---|---|---|
 | [![](/assets/project_images/in_logo.png)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3362844335/) | [![](/assets/project_images/fb_logo.png)](https://www.facebook.com/ind.rek.5) | [![](/assets/project_images/twitter_logo.jpeg)](https://twitter.com/intc21) | [![](/assets/project_images/instagram_logo.png)](https://www.instagram.com/intc21/) | [![](/assets/project_images/strava_logo.png)](https://www.strava.com/athletes/2362084) |
 </div>
