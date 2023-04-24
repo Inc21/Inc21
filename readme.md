@@ -1,18 +1,18 @@
-# Hi there 👋
+[![](/assets/project_images/logo.gif)](https://github.com/Inc21)
 
- My name is <H2>Indrek Mannik.</H2>
+
 
 ### 🌱 I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/) 
-<p align="left">
-  <img width="" height="" src="code-logo.png" alt="Code Institute">
-</p>
 
 
 ### :book: Topics covered so far:
 | HTML | CSS | JavaScript | Python |
 |---|---|---|---|
-| ![](/html5.png) | ![](/css3.png) | ![](/JavaScript5.png) | ![](/Python.png)
+| ![](/assets/project_images/html5.png) | ![](/assets/project_images/css3.png) | ![](/assets/project_images/JavaScript5.png) | ![](/assets/project_images/Python.png)
+<!-- | Portfolio Project 1. HTML/CSS | | Portfolio Project 2. JavaScript | Portfolio Project 3. Python |
+| [![Click here to see live version.](/assets/project_images/Blarney_3.png)](https://inc21.github.io/blarney_cc_pp1/) | [![Click here to see live version.](/assets/project_images/laptop.png)](https://inc21.github.io/blarney_cc_pp1/) | [![Click here to see live version.](/assets/project_images/3-devices-black.png)](https://inc21.github.io/tic-tac-toe-pp2/index.html) |  [![Click here to see live version.](/assets/project_images/desktop%20.png)](https://python-quiz-game-pp3.herokuapp.com/) | -->
 
+<!-- <a  href="https://inc21.github.io/blarney_cc_pp1/" rel="some text">![Foo](/assets/project_images/Blarney_3.png)</a> -->
 
 
 ### :octocat: My GitHub stats:
@@ -26,12 +26,12 @@
 </p>
 
 
-### :envelope_with_arrow: How to reach me:
+### :envelope_with_arrow: My socials:
 <div align="center"> 
 
-| LinkedIn | Facebook | Twitter | Instagram |
-|---|---|---|---|
-| [![](/in_logo.png)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3362844335/) | [![](/fb_logo.png)](https://www.facebook.com/ind.rek.5) | [![](/twitter_logo.jpeg)](https://twitter.com/intc21) | [![](/instagram_logo.png)](https://www.instagram.com/intc21/) |
+| LinkedIn | Facebook | Twitter | Instagram | Strava !
+|---|---|---|---|---|
+| [![](/assets/project_images/in_logo.png)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3362844335/) | [![](/assets/project_images/fb_logo.png)](https://www.facebook.com/ind.rek.5) | [![](/assets/project_images/twitter_logo.jpeg)](https://twitter.com/intc21) | [![](/assets/project_images/instagram_logo.png)](https://www.instagram.com/intc21/) | [![](/assets/project_images/strava_logo.png)](https://www.strava.com/athletes/2362084) |
 </div>
 
  
