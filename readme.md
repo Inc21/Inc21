@@ -24,8 +24,8 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 
 ### :octocat: My GitHub stats:
 <p align="center">
-  <img width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&layout=compact" alt="top langs">
-   <img width="" height="200" src="https://github-readme-stats.vercel.app/api?username=Inc21&show_icons=true&theme=transparent"  alt="stats">
+  <img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&layout=compact" alt="top langs">
+   <img width="" height="150" src="https://github-readme-stats.vercel.app/api?username=Inc21&show_icons=true&theme=transparent"  alt="stats">
 </p>
 
 <br>
