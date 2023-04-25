@@ -1,13 +1,13 @@
 [![](/assets/project_images/logo.gif)](https://github.com/Inc21)
 
-
-### 🌱 I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/) 
-
-<br>
-
 <p align="center">
   <img src="assets\project_images\line.png">
 </p>
+
+<br>
+
+### 🌱 About me:
+I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/) 
 
 <br>
 
