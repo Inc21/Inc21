@@ -1,38 +1,50 @@
 [![](/assets/project_images/logo.gif)](https://github.com/Inc21)
 
 
-
 ### 🌱 I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/) 
 
+<br>
 
-### :book: Topics covered so far:
-| HTML | CSS | JavaScript | Python |
-|---|---|---|---|
-| ![](/assets/project_images/html5.png) | ![](/assets/project_images/css3.png) | ![](/assets/project_images/JavaScript5.png) | ![](/assets/project_images/Python.png)
-<!-- | Portfolio Project 1. HTML/CSS | | Portfolio Project 2. JavaScript | Portfolio Project 3. Python |
-| [![Click here to see live version.](/assets/project_images/Blarney_3.png)](https://inc21.github.io/blarney_cc_pp1/) | [![Click here to see live version.](/assets/project_images/laptop.png)](https://inc21.github.io/blarney_cc_pp1/) | [![Click here to see live version.](/assets/project_images/3-devices-black.png)](https://inc21.github.io/tic-tac-toe-pp2/index.html) |  [![Click here to see live version.](/assets/project_images/desktop%20.png)](https://python-quiz-game-pp3.herokuapp.com/) | -->
+<p align="center">
+  <img src="assets\project_images\line.png">
+</p>
 
-<!-- <a  href="https://inc21.github.io/blarney_cc_pp1/" rel="some text">![Foo](/assets/project_images/Blarney_3.png)</a> -->
+<br>
 
+### :book: Languages and technologies covered so far:
+
+<p align="center">
+  <img src="assets\project_images\html5_small.png" alt="HTML 5">
+  <img src="assets\project_images\css3_small.png" alt="CSS 3">
+  <img src="assets\project_images\JavaScript5_small.png" alt="JavaScript 5">
+  <img src="assets\project_images\Python_small.png" alt="Python">
+</p>
+
+<br>
 
 ### :octocat: My GitHub stats:
 <p align="center">
-  <img width="" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&layout=compact" alt="top langs">
+  <img width="" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&layout=compact" alt="top langs">
+   <img width="" height="200" src="https://github-readme-stats.vercel.app/api?username=Inc21&show_icons=true&theme=transparent"  alt="stats">
 </p>
 
+<br>
+<br>
 
 <p align="center">
-  <img width="" height="" src="https://github-readme-stats.vercel.app/api?username=Inc21&show_icons=true&theme=transparent"  alt="stats">
+  <img src="assets\project_images\line.png">
 </p>
 
+<br>
+<br>
 
 ### :envelope_with_arrow: My socials:
 <div align="center"> 
-
-| LinkedIn | Facebook | Twitter | Instagram | Strava |
-|---|---|---|---|---|
-| [![](/assets/project_images/in_logo.png)](https://www.linkedin.com/jobs/collections/recommended/?currentJobId=3362844335/) | [![](/assets/project_images/fb_logo.png)](https://www.facebook.com/ind.rek.5) | [![](/assets/project_images/twitter_logo.jpeg)](https://twitter.com/intc21) | [![](/assets/project_images/instagram_logo.png)](https://www.instagram.com/intc21/) | [![](/assets/project_images/strava_logo.png)](https://www.strava.com/athletes/2362084) |
-</div>
+  <a href="https://www.linkedin.com/in/indrek-mannik-038770259/"><img src="assets\project_images\in_logo.png"></a>
+  <a href="https://www.facebook.com/ind.rek.5"><img src="assets\project_images\fb_logo.png"></a>
+  <a href="https://www.instagram.com/intc21/"><img src="assets\project_images\instagram_logo.png"></a>
+  <a href="https://twitter.com/intc21"><img src="assets\project_images\twitter_logo.jpeg"></a>
+  <a href="https://www.strava.com/athletes/2362084/"><img src="assets\project_images\strava_logo.png"></a>
 
  
 
