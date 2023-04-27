@@ -12,7 +12,7 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 ### :book: Languages and technologies covered so far:
 
 <p align="center">
-  <img src="assets\project_images\html5_small.png" alt="HTML 5">
+  <img src="/assets/project_images/html5_small.png" alt="HTML 5">
   <img src="assets\project_images\css3_small.png" alt="CSS 3">
   <img src="assets\project_images\JavaScript5_small.png" alt="JavaScript 5">
   <img src="assets\project_images\Python_small.png" alt="Python">
