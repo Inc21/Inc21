@@ -5,7 +5,7 @@
 </p>
 
 ### 🌱 About me:
-I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/) 
+I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/).
 
 <br>
 
@@ -39,7 +39,7 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
   <a href="https://www.linkedin.com/in/indrek-mannik-038770259/"><img src="/assets/project_images/in_logo.png"></a>
   <a href="https://www.facebook.com/ind.rek.5"><img src="/assets/project_images/fb_logo.png"></a>
   <a href="https://www.instagram.com/intc21/"><img src="/assets/project_images/instagram_logo.png"></a>
-  <a href="https://twitter.com/intc21"><img src="/assets/project_images/twitter_logo.jpeg"></a>
+  <a href="https://twitter.com/intc21"><img src="/assets/project_images/twitter_logo.png"></a>
   <a href="https://www.strava.com/athletes/2362084/"><img src="/assets/project_images/strava_logo.png"></a>
 
  
