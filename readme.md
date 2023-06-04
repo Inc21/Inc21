@@ -24,7 +24,7 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 [![GitHub Streak](https://streak-stats.demolab.com?user=Inc21&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
 
 <p align="center">
-  <img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&hide=Dockerfile,Procfile,Shell&layout=compact&theme=transparent&size_weight=0&count_weight=1" alt="top langs">
+  <img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&hide=Dockerfile,Procfile,Shell,Batchfile&layout=compact&theme=transparent&size_weight=0&count_weight=1" alt="top langs">
    <img width="" height="150" src="https://github-readme-stats.vercel.app/api?username=Inc21&show_icons=true&theme=transparent&hide_rank=true"  alt="stats">
 </p>
 
