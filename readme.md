@@ -9,13 +9,34 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 
 <br>
 
-### :book: Languages and technologies covered so far:
+### :book: Languages covered:
 
 <p align="center">
-  <img src="/assets/project_images/html5_small.png" alt="HTML 5">
-  <img src="/assets/project_images/css3_small.png" alt="CSS 3">
-  <img src="/assets/project_images/JavaScript5_small.png" alt="JavaScript 5">
-  <img src="/assets/project_images/Python_small.png" alt="Python">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 3">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript 5">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</p>
+
+<br>
+
+### :desktop_computer: Technologies and Frameworks:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="JQuery">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSql">
+  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <!--
+  <img src="" alt="Markdown">
+  <img src="" alt="Markdown">
+  -->
+  
 </p>
 
 <br>
@@ -40,11 +61,15 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 
 ### :envelope_with_arrow: My socials:
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/indrek-mannik-038770259/"><img src="/assets/project_images/in_logo.png"></a>
-  <a href="https://www.facebook.com/ind.rek.5"><img src="/assets/project_images/fb_logo.png"></a>
-  <a href="https://www.instagram.com/intc21/"><img src="/assets/project_images/instagram_logo.png"></a>
-  <a href="https://twitter.com/intc21"><img src="/assets/project_images/twitter_logo.png"></a>
-  <a href="https://www.strava.com/athletes/2362084/"><img src="/assets/project_images/strava_logo.png"></a>
+  <a href="https://www.linkedin.com/in/indrek-mannik-038770259/"><img height="30" src="/assets/project_images/in_logo.png"></a>
+  &nbsp;
+  <a href="https://www.facebook.com/ind.rek.5"><img height="30" src="/assets/project_images/fb_logo.png"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/intc21/"><img height="30" src="/assets/project_images/instagram_logo.png"></a>
+  &nbsp;
+  <a href="https://twitter.com/intc21"><img height="30" src="/assets/project_images/twitter_logo.png"></a>
+  &nbsp;
+  <a href="https://www.strava.com/athletes/2362084/"><img height="30" src="/assets/project_images/strava_logo.png"></a>
 </div>
 
 <br>
