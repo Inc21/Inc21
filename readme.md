@@ -21,7 +21,7 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 <br>
 
 ### :octocat: My GitHub stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=Inc21&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inc21&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Stats"/></a>
 
 <p align="center">
   <img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&hide=Dockerfile,Procfile,Shell,Batchfile&layout=compact&theme=transparent&size_weight=0&count_weight=1" alt="top langs">
