@@ -43,6 +43,14 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
   <a href="https://www.instagram.com/intc21/"><img src="/assets/project_images/instagram_logo.png"></a>
   <a href="https://twitter.com/intc21"><img src="/assets/project_images/twitter_logo.png"></a>
   <a href="https://www.strava.com/athletes/2362084/"><img src="/assets/project_images/strava_logo.png"></a>
+</div>
+
+<br>
+
+<div align="right">
+    <a href="https://wakatime.com/@0bad1854-abc6-44c1-9974-4cc7a16975e9"><img src="https://wakatime.com/badge/user/0bad1854-abc6-44c1-9974-4cc7a16975e9.svg" alt="Total time coded since Apr 25 2023" /></a>
+</div>
+
 
  
 
