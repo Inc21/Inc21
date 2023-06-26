@@ -46,10 +46,10 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 
 <br>
 
-<p align="center">
-  <img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&hide=Dockerfile,Procfile,Shell,Batchfile&layout=compact&theme=transparent&size_weight=0&count_weight=1" alt="top langs">
+<div align="center">
+  <img width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inc21&hide=Dockerfile,Procfile,Shell,Batchfile&layout=compact&theme=transparent&size_weight=0&count_weight=1" alt="top langs">&nbsp;
    <img width="" height="150" src="https://github-readme-stats.vercel.app/api?username=Inc21&show_icons=true&theme=transparent&hide_rank=true"  alt="stats">
-</p>
+</div>
 
 <br>
 
