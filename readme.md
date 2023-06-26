@@ -48,7 +48,7 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 <br>
 
 <div align="right">
-    <a href="https://wakatime.com/@0bad1854-abc6-44c1-9974-4cc7a16975e9"><img src="https://wakatime.com/badge/user/0bad1854-abc6-44c1-9974-4cc7a16975e9.svg" alt="Total time coded since Apr 25 2023" /></a>
+    <a href="https://wakatime.com/@0bad1854-abc6-44c1-9974-4cc7a16975e9" target="_blank"><img src="https://wakatime.com/badge/user/0bad1854-abc6-44c1-9974-4cc7a16975e9.svg" alt="Total time coded since Apr 25 2023" /></a>
 </div>
 
 
