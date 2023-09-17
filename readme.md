@@ -72,10 +72,9 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
   <a href="https://www.strava.com/athletes/2362084/"><img height="30" src="/assets/project_images/strava_logo.png"></a>
 </div>
 
-<br>
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Inc21&style=flat-square&color=blue" alt=""/>
-</div>
+<be>
+
+<img src="https://komarev.com/ghpvc/?username=Inc21&style=flat-square&color=blue" alt=""/>
 <div align="right">
     <a href="https://wakatime.com/@0bad1854-abc6-44c1-9974-4cc7a16975e9" target="_blank"><img src="https://wakatime.com/badge/user/0bad1854-abc6-44c1-9974-4cc7a16975e9.svg" alt="Total time coded since Apr 25 2023" /></a>
 </div>
