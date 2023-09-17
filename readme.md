@@ -73,8 +73,9 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 </div>
 
 <be>
-
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=Inc21&style=flat-square&color=blue" alt=""/>
+</div>  
 <div align="right">
     <a href="https://wakatime.com/@0bad1854-abc6-44c1-9974-4cc7a16975e9" target="_blank"><img src="https://wakatime.com/badge/user/0bad1854-abc6-44c1-9974-4cc7a16975e9.svg" alt="Total time coded since Apr 25 2023" /></a>
 </div>
