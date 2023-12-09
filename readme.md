@@ -4,12 +4,14 @@
   <img src="/assets/project_images/line.png">
 </p>
 
-### 🌱 About me:
-I’m currently studying Full Stack Software Development at [Code Institute](https://codeinstitute.net/ie/).
+### Hello World! 👋
+
+I'm Indrek, a recent graduate of the Code Institute Full Stack Software Development Bootcamp. Passionate about crafting innovative solutions, I'm on a journey to turn my coding dreams into reality.
+
+#### 🚀 Code Institute Graduate
+Having successfully completed the [Code Institute](https://codeinstitute.net/ie/) Bootcamp, I've gained hands-on experience in full-stack development. My skill set includes proficiency in HTML, CSS, JavaScript, Python, Django and more.
 
 <br>
-
-### :book: Languages covered:
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 5">
@@ -17,13 +19,6 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript 5">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-</p>
-
-<br>
-
-### :desktop_computer: Technologies and Frameworks:
-
-<p align="center">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
@@ -32,6 +27,18 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
+
+#### 🌐 Tech Enthusiast
+I find joy in creating seamless and user-friendly applications. Whether it's the front-end design or back-end functionality, I thrive on turning ideas into lines of code that bring projects to life.
+
+#### 📚 Continuous Learning
+The world of technology is ever-evolving, and I'm committed to staying at the forefront. I have a strong appetite for learning and am exploring React, Django rest API, and Git.
+
+<br>
+
+<p align="center">
+  
   <!--
   <img src="" alt="Markdown">
   <img src="" alt="Markdown">
@@ -41,7 +48,7 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 
 <br>
 
-### :octocat: My GitHub stats:
+### My GitHub stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inc21&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Stats"/></a>
 
 <br>
@@ -59,17 +66,14 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 
 <br>
 
-### :envelope_with_arrow: My socials:
+#### 🤝 Let's Connect
+I'm eager to connect with fellow developers, tech enthusiasts, and industry professionals. Feel free to contact me on any of the following social media links for discussions, collaborations, or just a chat about all things code!
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/indrek-mannik-038770259/"><img height="30" src="/assets/project_images/in_logo.png"></a>
   &nbsp;
   <a href="https://www.facebook.com/ind.rek.5"><img height="30" src="/assets/project_images/fb_logo.png"></a>
   &nbsp;
-  <a href="https://www.instagram.com/intc21/"><img height="30" src="/assets/project_images/instagram_logo.png"></a>
-  &nbsp;
-  <a href="https://twitter.com/intc21"><img height="30" src="/assets/project_images/twitter_logo.png"></a>
-  &nbsp;
-  <a href="https://www.strava.com/athletes/2362084/"><img height="30" src="/assets/project_images/strava_logo.png"></a>
 </div>
 
 <be>
@@ -80,6 +84,10 @@ I’m currently studying Full Stack Software Development at [Code Institute](htt
 <div align="right">
     <a href="https://wakatime.com/@0bad1854-abc6-44c1-9974-4cc7a16975e9" target="_blank"><img src="https://wakatime.com/badge/user/0bad1854-abc6-44c1-9974-4cc7a16975e9.svg" alt="Total time coded since Apr 25 2023" /></a>
 </div>
+
+<br>
+Thanks for stopping by, and let's code something amazing together! 🚀
+
 
 
  
