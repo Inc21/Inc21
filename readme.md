@@ -33,12 +33,12 @@ Having successfully completed the [Code Institute](https://codeinstitute.net/ie/
 
 <br>
 
-### <img src="/assets/project_images/robot.gif" style="width:50px"> Tech Enthusiast
+### <img src="/assets/project_images/robot.gif" style="width:25px"> Tech Enthusiast
 I find joy in creating seamless and user-friendly applications. Whether it's the front-end design or back-end functionality, I thrive on turning ideas into lines of code that bring projects to life.
 
 <br>
 
-### <img src="/assets/project_images/book.gif" style="width:50px"> Continuous Learning
+### <img src="/assets/project_images/book.gif" style="width:25px"> Continuous Learning
 The world of technology is ever-evolving, and I'm committed to staying at the forefront. I have a strong appetite for learning and am exploring React, Django rest API, and Git.
 
 <br>
