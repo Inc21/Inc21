@@ -43,7 +43,7 @@ The world of technology is ever-evolving, and I'm committed to staying at the fo
 
 <br>
 
-### <img src="/assets/project_images/hammer.gif" style="width:25px"> My GitHub stats:
+### <img src="/assets/project_images/bolt.gif" style="width:25px"> My GitHub stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inc21&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Stats"/></a>
 
 <br>
