@@ -33,7 +33,7 @@ Having successfully completed the [Code Institute](https://codeinstitute.net/ie/
 
 <br>
 
-### <img src="/assets/project_images/robot.gif" style="width:25px"> Tech Enthusiast
+### <img src="/assets/project_images/robot.gif" style="width:50px"> Tech Enthusiast
 I find joy in creating seamless and user-friendly applications. Whether it's the front-end design or back-end functionality, I thrive on turning ideas into lines of code that bring projects to life.
 
 <br>
