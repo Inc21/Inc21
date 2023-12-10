@@ -43,18 +43,7 @@ The world of technology is ever-evolving, and I'm committed to staying at the fo
 
 <br>
 
-<p align="center">
-  
-  <!--
-  <img src="" alt="Markdown">
-  <img src="" alt="Markdown">
-  -->
-  
-</p>
-
-<br>
-
-### ⚡ My GitHub stats:
+### <img src="/assets/project_images/hammer.gif" style="width:25px"> My GitHub stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inc21&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Stats"/></a>
 
 <br>
@@ -66,7 +55,7 @@ The world of technology is ever-evolving, and I'm committed to staying at the fo
 
 <br>
 
-### 🤝 **Let's Connect**
+### <img src="/assets/project_images/handshake.gif" style="width:25px"> **Let's Connect**
 I'm eager to connect with fellow developers, tech enthusiasts, and industry professionals. Feel free to contact me on any of the following social media links for discussions, collaborations, or just a chat about all things code!
 
 <div align="center"> 
