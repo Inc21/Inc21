@@ -4,11 +4,13 @@
   <img src="/assets/project_images/line.png">
 </p>
 
-### Hello World! 👋
+## Hello World! 👋
 
 I'm Indrek, a recent graduate of the Code Institute Full Stack Software Development Bootcamp. Passionate about crafting innovative solutions, I'm on a journey to turn my coding dreams into reality.
 
-#### 🚀 Code Institute Graduate
+<br>
+
+### 🚀 Code Institute Graduate
 Having successfully completed the [Code Institute](https://codeinstitute.net/ie/) Bootcamp, I've gained hands-on experience in full-stack development. My skill set includes proficiency in HTML, CSS, JavaScript, Python, Django and more.
 
 <br>
@@ -27,12 +29,17 @@ Having successfully completed the [Code Institute](https://codeinstitute.net/ie/
   <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
 </p>
 
-#### 🌐 Tech Enthusiast
+<br>
+
+### 🌐 Tech Enthusiast
 I find joy in creating seamless and user-friendly applications. Whether it's the front-end design or back-end functionality, I thrive on turning ideas into lines of code that bring projects to life.
 
-#### 📚 Continuous Learning
+<br>
+
+### 📚 Continuous Learning
 The world of technology is ever-evolving, and I'm committed to staying at the forefront. I have a strong appetite for learning and am exploring React, Django rest API, and Git.
 
 <br>
@@ -48,7 +55,7 @@ The world of technology is ever-evolving, and I'm committed to staying at the fo
 
 <br>
 
-### My GitHub stats:
+### ⚡ My GitHub stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inc21&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Stats"/></a>
 
 <br>
@@ -60,19 +67,13 @@ The world of technology is ever-evolving, and I'm committed to staying at the fo
 
 <br>
 
-<p align="center">
-  <img src="/assets/project_images/line.png">
-</p>
-
-<br>
-
-#### 🤝 Let's Connect
+### 🤝 **Let's Connect**
 I'm eager to connect with fellow developers, tech enthusiasts, and industry professionals. Feel free to contact me on any of the following social media links for discussions, collaborations, or just a chat about all things code!
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/indrek-mannik-038770259/"><img height="30" src="/assets/project_images/in_logo.png"></a>
+  <a href="https://www.linkedin.com/in/indrek-mannik-038770259/"><img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   &nbsp;
-  <a href="https://www.facebook.com/ind.rek.5"><img height="30" src="/assets/project_images/fb_logo.png"></a>
+  <a href="https://www.facebook.com/ind.rek.5"><img height="30" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
   &nbsp;
 </div>
 
@@ -86,7 +87,10 @@ I'm eager to connect with fellow developers, tech enthusiasts, and industry prof
 </div>
 
 <br>
-Thanks for stopping by, and let's code something amazing together! 🚀
+<p align="center">
+  Thanks for stopping by, and let's code something amazing together! 🚀
+</p>
+
 
 
 
