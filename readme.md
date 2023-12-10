@@ -38,7 +38,7 @@ I find joy in creating seamless and user-friendly applications. Whether it's the
 
 <br>
 
-### 📚 Continuous Learning
+### <img src="/assets/project_images/book.gif" style="width:50px"> Continuous Learning
 The world of technology is ever-evolving, and I'm committed to staying at the forefront. I have a strong appetite for learning and am exploring React, Django rest API, and Git.
 
 <br>
