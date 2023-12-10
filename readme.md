@@ -87,8 +87,15 @@ I'm eager to connect with fellow developers, tech enthusiasts, and industry prof
 </div>
 
 <br>
+
 <p align="center">
   Thanks for stopping by, and let's code something amazing together! 🚀
+</p>
+
+<br>
+
+<p align="center">
+  <img src="/assets/project_images/line.png">
 </p>
 
 
