@@ -77,7 +77,7 @@ I'm eager to connect with fellow developers, tech enthusiasts, and industry prof
 <br>
 
 <div align="center">
-  <h4>Thanks for stopping by, and let's code something amazing together! 🚀</h4>
+  <h4><img src="/assets/project_images/rocket_left.gif" style="width:20px"> Thanks for stopping by, and let's code something amazing together! <img src="/assets/project_images/rocket.gif" style="width:20px"></h4>
 </div>
 
 <br>
