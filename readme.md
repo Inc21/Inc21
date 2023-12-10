@@ -4,8 +4,7 @@
   <img src="/assets/project_images/line.png">
 </p>
 
-## Hello World! 👋
-
+## Hello World! 👋 <img src="/assets/project_images/wave.gif" style="width:30px">
 I'm Indrek, a recent graduate of the Code Institute Full Stack Software Development Bootcamp. Passionate about crafting innovative solutions, I'm on a journey to turn my coding dreams into reality.
 
 <br>
