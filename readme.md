@@ -88,9 +88,9 @@ I'm eager to connect with fellow developers, tech enthusiasts, and industry prof
 
 <br>
 
-<p align="center">
-  Thanks for stopping by, and let's code something amazing together! 🚀
-</p>
+<div align="center">
+  <h4>Thanks for stopping by, and let's code something amazing together! 🚀</h4>
+</div>
 
 <br>
 
