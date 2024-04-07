@@ -5,11 +5,11 @@
 </p>
 
 ### <img src="/assets/project_images/wave.gif" style="width:25px"> Hello World! 
-I'm Indrek, a recent graduate of the Code Institute Full Stack Software Development Bootcamp. Passionate about crafting innovative solutions, I'm on a journey to turn my coding dreams into reality.
+I'm Indrek, a recent Code Institute Full Stack Software Development Bootcamp graduate. Passionate about crafting innovative solutions, I'm on a journey to turn my coding dreams into reality.
 
 <br>
 
-### <img src="/assets/project_images/rocket_left.gif" style="width:20px"> Code Institute Graduate
+###  <!-- <img src="/assets/project_images/rocket_left.gif" style="width:20px"> --> Code Institute Graduate
 Having successfully completed the [Code Institute](https://codeinstitute.net/ie/) Bootcamp, I've gained hands-on experience in full-stack development. My skill set includes proficiency in HTML, CSS, JavaScript, Python, Django and more.
 
 <br>
