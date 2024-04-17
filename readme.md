@@ -9,7 +9,7 @@ I'm Indrek, a recent Code Institute Full Stack Software Development Bootcamp gra
 
 <br>
 
-###  <img src="/assets/project_images/rocket_left.gif" style="width:20px"> --> Code Institute Graduate
+###  <img src="/assets/project_images/rocket_left.gif" style="width:20px"> Code Institute Graduate
 Having successfully completed the [Code Institute](https://codeinstitute.net/ie/) Bootcamp, I've gained hands-on experience in full-stack development. My skill set includes proficiency in HTML, CSS, JavaScript, Python, Django and more.
 
 <br>
@@ -34,17 +34,17 @@ Having successfully completed the [Code Institute](https://codeinstitute.net/ie/
 
 <br>
 
-### <!-- <img src="/assets/project_images/robot.gif" style="width:25px"> --> Tech Enthusiast
+### <img src="/assets/project_images/robot.gif" style="width:25px"> Tech Enthusiast
 I find joy in creating seamless and user-friendly applications. Whether it's the front-end design or back-end functionality, I thrive on turning ideas into lines of code that bring projects to life.
 
 <br>
 
-### <!-- <img src="/assets/project_images/book.gif" style="width:25px"> --> Continuous Learning
+### <img src="/assets/project_images/book.gif" style="width:25px"> Continuous Learning
 The world of technology is ever-evolving, and I'm committed to staying at the forefront. I have a strong appetite for learning and am exploring React, Django rest API, and Git.
 
 <br>
 
-### <!-- <img src="/assets/project_images/bolt.gif" style="width:25px"> --> My GitHub stats:
+### <img src="/assets/project_images/bolt.gif" style="width:25px"> My GitHub stats:
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Inc21&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=900" alt="GitHub Stats"/></a>
 
 <br>
@@ -56,7 +56,7 @@ The world of technology is ever-evolving, and I'm committed to staying at the fo
 
 <br>
 
-### <!-- <img src="/assets/project_images/handshake.gif" style="width:25px"> --> **Let's Connect**
+### <img src="/assets/project_images/handshake.gif" style="width:25px"> **Let's Connect**
 I'm eager to connect with fellow developers, tech enthusiasts, and industry professionals. Feel free to contact me on any of the following social media links for discussions, collaborations, or just a chat about all things code!
 
 <div align="center"> 
@@ -78,7 +78,7 @@ I'm eager to connect with fellow developers, tech enthusiasts, and industry prof
 <br>
 
 <div align="center">
-  <h4>Thanks for stopping by, and let's code something amazing together!  <img src="/assets/project_images/rocket.gif" style="width:20px"> --> </h4>
+  <h4>Thanks for stopping by, and let's code something amazing together! <img src="/assets/project_images/rocket.gif" style="width:20px"> </h4>
 </div>
 
 <br>
